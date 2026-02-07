@@ -1,6 +1,6 @@
 {
   "versionCode": 5, 
-  "versionName": "1.3.1",
-  "updateLog": "1. 优化了排序功能\n2. 新增新手教程\n3. 修复其他报错",
+  "versionName": "1.4.0",
+  "updateLog": "1. 增加了ai助手\n2. 修复其他报错",
   "downloadUrl": "https://github.com/slyvian-h-lynn/pingbox-updates/releases/download/1.4.0/app-release.apk"
 }
